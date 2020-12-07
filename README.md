@@ -30,3 +30,20 @@ https://github.com/likhitha2302/project-1.git - automatic!
 [GitHub](http://github.com)
 
 
+
+
+
+
+<!-- /*Project summary in 3-5 lines*/ -->
+
+As to keep water resources clean and neat:
+
+>These are few helpful tips to keep our lakes and rivers beautiful and safe for all of us.
+> After evaluating all these points one thing we can br sure about is that the safety of our rivers is just as important as the safety of anything else.
+
+
+
+
+
+
+
