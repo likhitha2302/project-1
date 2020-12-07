@@ -47,5 +47,5 @@ I think you should use an
 
 /*Image*/
 
-![GitHub Logo](/nature.jfif)
+![GitHub Logo](./nature.jfif)
 Format: ![Alt Text](url)
