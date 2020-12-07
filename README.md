@@ -26,11 +26,8 @@
 
 <!-- /*Leave it as it is*/ -->
 
-https://github.com/likhitha2302/project-1.git - automatic!
+http://https://github.com/likhitha2302/project-1.git - automatic!
 [GitHub](http://github.com)
-
-
-
 
 
 
@@ -43,7 +40,13 @@ As to keep water resources clean and neat:
 
 
 
+A RIVER IS MORE THAN AN AMENITY ITS A TREASURE
+`<addr>` 
 
 
 
 
+<!-- /*Image*/ -->
+
+![GitHub Logo](./nature.jfif)
+Format: ![Alt Text](url)
