@@ -1,7 +1,8 @@
-# This is an h1 tag
-## This is an h2 tag
-###### This is an h6 tag
+#   /*Heading*/
+## This is an h2 tag /*Subheading*/
 
+
+/*List of components in your project*/
 
 * Item 1
 * Item 2
@@ -9,6 +10,8 @@
   * Item 2b	
 
 
+
+/*2nd List*/
 
 1. Item 1
 1. Item 2
@@ -20,12 +23,14 @@
 
 
 
+/*Leave it as it is*/
 
 http://github.com - automatic!
 [GitHub](http://github.com)
 
 
 
+/*Project summary in 3-5 lines*/
 
 As Kanye West said:
 
@@ -36,3 +41,11 @@ As Kanye West said:
 
 I think you should use an
 `<addr>` element here instead.
+
+
+
+
+/*Image*/
+
+![GitHub Logo](/nature.jfif)
+Format: ![Alt Text](url)
